@@ -1,6 +1,13 @@
 # srt-2-bilingual-ass
 combine 2 SRT files into a bilingual ASS (SubStation Alpha) subtitle file
 
+# version 2.0 update notes
+# 第二版更新
+
+add main.py
+
+使用```main.py```可以模糊匹配两个字幕文件
+
 # 合并两种语言的SRT字幕为双语ASS字幕
 
 ## For English Users
