@@ -1,7 +1,7 @@
 import srt, datetime
 
-file1 = "Underwater.2020.1080p.BluRay.x264.DTS-FGT.chs.srt"
-file2 = "Underwater.2020.1080p.BluRay.x264.DTS-FGT.eng.srt"
+file1 = "chs.srt"
+file2 = "eng.srt"
 
 srt1 = []
 srt2 = []
